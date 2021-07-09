@@ -1,0 +1,33 @@
+1625819906136	geckodriver	INFO	Listening on 127.0.0.1:58248
+1625819909234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofiley9XMe4"
+1625819909774	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofiley9XMe4\\search.json.mozlz4", (void 0)))
+1625819912746	Marionette	INFO	Listening on port 58256
+1625819912928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 753: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1625819914926	Marionette	INFO	Stopped listening on port 58256
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625819954466	geckodriver	INFO	Listening on 127.0.0.1:58297
+1625819957533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofilehw5Z9B"
+1625819957923	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofilehw5Z9B\\search.json.mozlz4", (void 0)))
+1625819960552	Marionette	INFO	Listening on port 58305
+1625819960708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 753: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1625819972631	Marionette	INFO	Stopped listening on port 58305
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625819990139	geckodriver	INFO	Listening on 127.0.0.1:58354
+1625819993234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofile4QOzYL"
+1625819993613	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofile4QOzYL\\search.json.mozlz4", (void 0)))
+1625819996315	Marionette	INFO	Listening on port 58362
+1625819996407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 753: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1625820008392	Marionette	INFO	Stopped listening on port 58362
